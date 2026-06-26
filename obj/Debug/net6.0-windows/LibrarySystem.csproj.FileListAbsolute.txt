@@ -1,0 +1,164 @@
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Form1.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmAdminister.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmAlterAdminPwd.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmBook.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Book.FrmBookAdd.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Book.FrmBookAlter.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmBookType.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmReaderManage.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Forms.Admin.FrmUserAlter.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Forms.Admin.FrmUsersAdd.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmUserType.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmLog.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Forms.Reader.FrmAlterUserPwd.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmBookBorrow.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.User.FrmMyBook.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmRegister.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmUser.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.exe
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.deps.json
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.runtimeconfig.json
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibraryS.702885DD.Up2Date
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\refint\LibrarySystem.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem\obj\Debug\net6.0-windows\ref\LibrarySystem.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.exe
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.deps.json
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.runtimeconfig.json
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Form1.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmAdminister.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmAlterAdminPwd.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmBook.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Book.FrmBookAdd.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Book.FrmBookAlter.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmBookType.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmReaderManage.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Forms.Admin.FrmUserAlter.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Forms.Admin.FrmUsersAdd.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmUserType.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmLog.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Forms.Reader.FrmAlterUserPwd.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmBookBorrow.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.User.FrmMyBook.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmRegister.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmUser.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibraryS.702885DD.Up2Date
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\refint\LibrarySystem.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\obj\Debug\net6.0-windows\ref\LibrarySystem.dll
+C:\Users\Administrator\Desktop\last\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.dll.config
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.exe
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.dll.config
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.deps.json
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.runtimeconfig.json
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.dll
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmAdminister.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmAlterAdminPwd.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmBook.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Book.FrmBookAdd.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Book.FrmBookAlter.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmBookType.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmReaderManage.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Forms.Admin.FrmUserAlter.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Forms.Admin.FrmUsersAdd.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmUserType.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmLog.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Forms.Reader.FrmAlterUserPwd.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmBookBorrow.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.User.FrmMyBook.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmRegister.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.FrmUser.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibraryS.702885DD.Up2Date
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.dll
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\refint\LibrarySystem.dll
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\LibrarySystem.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\数据库\LibrarySystem - 副本\obj\Debug\net6.0-windows\ref\LibrarySystem.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.exe
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.dll.config
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.deps.json
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.runtimeconfig.json
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmAdminister.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmAlterAdminPwd.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmBook.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Book.FrmBookAdd.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Book.FrmBookAlter.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmBookType.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmReaderManage.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Forms.Admin.FrmUserAlter.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Forms.Admin.FrmUsersAdd.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmUserType.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmLog.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Forms.Reader.FrmAlterUserPwd.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmBookBorrow.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.User.FrmMyBook.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmRegister.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.FrmUser.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibraryS.702885DD.Up2Date
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\refint\LibrarySystem.dll
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.pdb
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\LibrarySystem.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\数据库\自动23.2_202300171200_徐芊_组\LibrarySystem\obj\Debug\net6.0-windows\ref\LibrarySystem.dll

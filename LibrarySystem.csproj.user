@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Admin\FrmAdminister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\FrmAlterAdminPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\FrmBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\FrmBookAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\FrmBookAlter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\FrmBookType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\FrmReaderManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\FrmUserAlter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\FrmUsersAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\FrmUserType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Reader\FrmAlterUserPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Reader\FrmBookBorrow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Reader\FrmMyBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Reader\FrmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Reader\FrmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
